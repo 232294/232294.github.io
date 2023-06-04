@@ -32,10 +32,10 @@
 		<div class="feature">
 			<h3>Cats</h3>
 			<p>I don't really like cats.</p>
-			<img src="cat.webp" alt="Cat" width="500" height="333">
+			<img src="cat.jpg" alt="Cat" width="350" height="333">
 		</div>
 	<footer>
-		&copy;2023 Karolina Baranowska, All Rigts Reserved.
+		&copy;2023 Karolina Baranowska
 	</footer>
 	<!-- END FOOTER | the footer element is also new to HTML5 -->
 	</div>
