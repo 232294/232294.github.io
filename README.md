@@ -28,8 +28,7 @@
 			<p>Dogs are my favourite animals</p>
 			<h2>Dog Image</h2>
 <img src="doggo.webp" alt="Doggo" width="300" height="333">
-
-		</div>
+</div>
 		<div class="feature">
 			<h3>Cats</h3>
 			<p>I don't really like cats.</p>
