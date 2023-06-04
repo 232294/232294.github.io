@@ -27,7 +27,7 @@
 			<h3>Dogs</h3>
 			<p>Dogs are my favourite animals</p>
 			<h2>Dog Image</h2>
-<img src="doggo.jpg" alt="Doggo" width="500" height="333">
+<img src="doggo.webimage" alt="Doggo" width="500" height="333">
 
 			<!-- LOREM IPSUM is universally used. Lorem ipsum is dummy text, it does't really mean anything. Its used to fill space or for mockups. -->
 		</div>
