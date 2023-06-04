@@ -27,13 +27,13 @@
 			<h3>Dogs</h3>
 			<p>Dogs are my favourite animals</p>
 			<h2>Dog Image</h2>
-<img src="doggo.webp" alt="Doggo" width="500" height="333">
+<img src="doggo.webp" alt="Doggo" width="300" height="333">
 
-			<!-- LOREM IPSUM is universally used. Lorem ipsum is dummy text, it does't really mean anything. Its used to fill space or for mockups. -->
 		</div>
 		<div class="feature">
 			<h3>Cats</h3>
 			<p>I don't really like cats.</p>
+			<img src="cat.webp" alt="Cat" width="500" height="333">
 		</div>
 	<footer>
 		&copy;2023 Karolina Baranowska, All Rigts Reserved.
